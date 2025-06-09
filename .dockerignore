@@ -1,0 +1,7 @@
+numpy/
+torch/
+*.whl
+*.tar.gz
+AWSCLIV2.pkg
+.git
+__pycache__/

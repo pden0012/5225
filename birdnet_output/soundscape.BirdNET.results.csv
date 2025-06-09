@@ -1,0 +1,26 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File
+0.0,3.0,Poecile atricapillus,Black-capped Chickadee,0.8141,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+3.0,6.0,Poecile atricapillus,Black-capped Chickadee,0.3083,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+9.0,12.0,Haemorhous mexicanus,House Finch,0.6394,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+18.0,21.0,Cyanocitta cristata,Blue Jay,0.4353,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+18.0,21.0,Clamator coromandus,Chestnut-winged Cuckoo,0.3226,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+21.0,24.0,Cyanocitta cristata,Blue Jay,0.3291,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+27.0,30.0,Falco columbarius,Merlin,0.2657,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+33.0,36.0,Junco hyemalis,Dark-eyed Junco,0.4591,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+36.0,39.0,Junco hyemalis,Dark-eyed Junco,0.3537,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+39.0,42.0,Haemorhous mexicanus,House Finch,0.2533,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+42.0,45.0,Junco hyemalis,Dark-eyed Junco,0.7375,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+51.0,54.0,Haemorhous mexicanus,House Finch,0.2564,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+54.0,57.0,Haemorhous mexicanus,House Finch,0.6071,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+60.0,63.0,Junco hyemalis,Dark-eyed Junco,0.5550,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+69.0,72.0,Haemorhous mexicanus,House Finch,0.2915,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+72.0,75.0,Haemorhous mexicanus,House Finch,0.5638,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+78.0,81.0,Haemorhous mexicanus,House Finch,0.2561,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+81.0,84.0,Coccothraustes coccothraustes,Hawfinch,0.2804,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+84.0,87.0,Haemorhous mexicanus,House Finch,0.2801,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+90.0,93.0,Spinus tristis,American Goldfinch,0.4190,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+93.0,96.0,Haemorhous mexicanus,House Finch,0.3168,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+96.0,99.0,Spinus tristis,American Goldfinch,0.4765,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+102.0,105.0,Haemorhous mexicanus,House Finch,0.4459,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+111.0,114.0,Engine,Engine,0.5168,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
+117.0,120.0,Spinus tristis,American Goldfinch,0.3924,/Users/pengfei/Desktop/5225/A4/bird-tagging-lambda/BirdNET-Analyzer/birdnet_analyzer/example/soundscape.wav
